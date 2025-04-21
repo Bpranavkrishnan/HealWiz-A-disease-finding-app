@@ -19,9 +19,9 @@ We chose **Flutter** for its cross-platform compatibility and smooth UI developm
 | :---         |     :---      |     :---      |       
 | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/f93c3188-8bc9-42b6-ab0a-e8329279f915" width="260" height="auto" />  | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/e6bdced1-64b9-43d8-a005-70220956e3a0" width="250" height="auto" /> | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/3b4c0a06-c19f-4239-a854-24dd863861fc" width="250" height="auto" />     
 
-| Onboarding Screen | Login Screen |  Home Screen |
-| :---         |     :---      |      :---      |
- <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/1a55592b-c1e1-443c-803a-6d7189bafc68" width="250" height="auto" />    | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/067d2b86-0ce2-4175-8021-4acea55498a2" width="250" height="auto" /> | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/2267ac46-22b5-44f5-8056-0683d116a167" width="250" height="auto" /> 
+| Onboarding Screen | Login Screen |  
+| :---         |     :---      |   
+ <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/1a55592b-c1e1-443c-803a-6d7189bafc68" width="250" height="auto" />    | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/067d2b86-0ce2-4175-8021-4acea55498a2" width="250" height="auto" /> 
 
 
  
