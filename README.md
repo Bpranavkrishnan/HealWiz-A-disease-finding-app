@@ -23,27 +23,14 @@ We chose **Flutter** for its cross-platform compatibility and smooth UI developm
 | :---         |     :---      |      :---      |
  <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/1a55592b-c1e1-443c-803a-6d7189bafc68" width="250" height="auto" />    | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/067d2b86-0ce2-4175-8021-4acea55498a2" width="250" height="auto" /> | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/2267ac46-22b5-44f5-8056-0683d116a167" width="250" height="auto" /> 
 
-| Uploading Media | Generating Result Screen |  Result Generated Screen |
-| :---         |     :---      |      :---      |
- <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/c3757f46-60ae-45a1-838c-2118853f5004" width="250" height="auto" />    | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/f6abc977-83e4-4d9d-a1b7-a5e913b153fb" width="250" height="auto" /> | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/fee2ba5c-5973-4b30-910f-b8a3426a8244" width="250" height="auto" /> 
 
-  | Gemini Generating Screen | Gemini Generated Screen |  Profile Screen |
-| :---         |     :---      |      :---      |
- <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/ef52fccf-dedf-48e8-8d30-afe85c9f6e42" width="250" height="auto" />    | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/f3fb83e7-fe2a-4e2e-8c96-6844e4fa2303" width="250" height="auto" /> | <img src="https://github.com/mahesh-bora/HealWiz/assets/101460679/32b03740-161d-4f52-a4d2-546fb724b014" width="250" height="auto" /> 
+ 
 
 </div>
 
 
-## 🔗Backend Link 
-A Flask based backend with machine learning models made with Tensorflow (and also for pre-built models references are given)
-- Flask
-- Python
-- Tensorflow
-- Keras
- 
 <br/>
 
-https://github.com/yagyesh-bobde/healwiz-backend
 
 
 ## 💻Installation
@@ -75,10 +62,6 @@ Flutter pub get and run
   flutter run
 ```
 
-
-## 📄License
-
-Distributed under the MIT License. See [License](https://choosealicense.com/licenses/mit/) for more information.
 
 
 
