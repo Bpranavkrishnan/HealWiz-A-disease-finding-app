@@ -75,13 +75,13 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   shape: BoxShape.circle,
                   image: DecorationImage(
                     fit: BoxFit.cover,
-                    image: AssetImage('assets/maheshbora.jpg'),
+                    image: AssetImage('assets/maheshbora.png'),
                   ),
                 ),
               ),
               SizedBox(height: 20),
               Text(
-                _userName.isNotEmpty ? '$_userName!' : 'Mahesh Bora',
+                _userName.isNotEmpty ? '$_userName!' : 'Pranav Krishnan',
                 // 'Mahesh Bora',
                 style: TextStyle(
                   color: Colors.black54,
